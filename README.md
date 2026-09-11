@@ -24,17 +24,19 @@ Currently modernizing my infrastructure skill set through hands-on labs and port
 
 ## 🚀 Featured Projects
 
-### AD Daily HealthCheck
+### Windows Infrastructure Troubleshooting Lab
 
-PowerShell solution for daily Active Directory health checks.
+Hands-on Windows infrastructure troubleshooting lab based on realistic incident scenarios.
 
-- Detects locked user accounts
-- Detects expired passwords
-- Identifies passwords approaching expiration
-- Generates CSV reports when incidents are detected
-- Includes error handling and portable execution
+- Performance troubleshooting for CPU, memory, services, processes, and scheduled tasks
+- Storage and low-disk investigation
+- SMB share, NTFS permissions, and security group troubleshooting
+- Windows Server Backup and file-level recovery
+- SHA-256 integrity validation after recovery
+- Robocopy operational copy automation with PowerShell and Task Scheduler
+- Professional incident documentation using a structured troubleshooting methodology
 
-➡️ [View project](https://github.com/luisma-job/AD-Daily-HealthCheck)
+➡️ [View project](https://github.com/luisma-job/Windows-Infrastructure-Troubleshooting-Lab)
 
 ### AD User Lifecycle Automation
 
@@ -51,21 +53,31 @@ PowerShell toolkit for managing common Active Directory user lifecycle operation
 
 ➡️ [View project](https://github.com/luisma-job/AD-User-Lifecycle-Automation)
 
+### AD Daily HealthCheck
+
+PowerShell solution for daily Active Directory health checks.
+
+- Detects locked user accounts
+- Detects expired passwords
+- Identifies passwords approaching expiration
+- Generates CSV reports when incidents are detected
+- Includes error handling and portable execution
+
+➡️ [View project](https://github.com/luisma-job/AD-Daily-HealthCheck)
+
 ---
 
-## 🔧 Currently Building
+## 🎯 What's Next
 
-I'm continuing to build practical infrastructure projects around:
+I'm continuing to expand my infrastructure skill set through practical labs and projects focused on:
 
-- Windows infrastructure troubleshooting
-- Backup and recovery
 - Microsoft Entra ID
 - Microsoft 365
 - Microsoft Intune
 - VMware and Linux support
 - Azure infrastructure
 
-My focus is practical systems administration: **learn → troubleshoot → automate → test → document.**
+My focus is practical systems administration: **learn → build → troubleshoot → automate → test → document → publish.**
 
 ---
 
